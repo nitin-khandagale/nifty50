@@ -69,4 +69,4 @@ def update_directors_pattern():
 # update_fundamentals()
 # update_msf()
 # update_range()
-update_directors_pattern()
+# update_directors_pattern()
