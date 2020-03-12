@@ -30,6 +30,7 @@ def update_range():
 # JGD = ""
 # JWD = ""
 
+
 def update_directors_pattern():
 	for i in range(2, 10):
 		
